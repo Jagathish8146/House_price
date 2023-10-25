@@ -57,4 +57,5 @@ for col in object_cols:
     plt.xticks(rotation=90)
     sns.barplot(x=list(y.index), y=y)
     index += 1
+    ..
 
